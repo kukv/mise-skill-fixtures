@@ -10,4 +10,4 @@ refs below; the tests depend on them.
 | tag `v0.2.0` | same skills, README changed (used for upgrade tests) |
 | tag `draft-v9` | not a version; must be ignored by version listing |
 | branch `no-skills` | no `SKILL.md` at all |
-| branch `invalid-name` | `alpha` plus a `SKILL.md` whose name tries to escape the link directory |
+| branch `invalid-name` | the `v0.1.0` skills plus `skills/escape`, whose name tries to leave the link directory |
